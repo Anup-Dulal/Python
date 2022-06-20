@@ -1,0 +1,6 @@
+Day - 20/06/2022
+8:30 - Boot the system and checked the mail.
+9:00 - Started learning about python to connect with mongodb database.
+10:00 - Done practical.
+10-1:00 - Learned more about python and its interview questions from google.
+2:00-6:30- Learned about java 8 from javapoint and geeksforgeeks.
