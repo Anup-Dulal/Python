@@ -1,0 +1,7 @@
+Day - 21/06/2022
+
+8:30 - Boot the system and checked the mail.
+
+9:00-1:00 - Started learning about java from various website in google.
+
+2:00-6:30- Learned about springboot from javapoint and geeksforgeeks.
